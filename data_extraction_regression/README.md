@@ -12,8 +12,10 @@ In this notebook we take one such heavy function, which is used commonly in bloc
 6. One method to bypass this bottleneck is developing ethereum nodes optimized in data-delivery.
 
 ## Notebook: 
+https://github.com/analyseether/research/blob/master/data_extraction_regression/data_gathering.ipynb
 
 ## How to rerun the notebook
+0. Have an archive node synced upto 5M blocks.
 1. Install python3
 2. Clone the research repo.
 3. Install dependencies from requirements.txt: `$ pip install -r requirements.txt`
